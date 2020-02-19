@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * All work is created by Matt Sievers on 02-18-2020 for use in CST-105
+ * All work is created by Matt Sievers on 02-18-2020 for use in CST-235
  */
 @WebServlet(name = "/nameServlet")
 public class NameServlet extends HttpServlet {
